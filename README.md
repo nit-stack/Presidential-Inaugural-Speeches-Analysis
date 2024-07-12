@@ -71,10 +71,13 @@ After removing stopwords, the three most common words in each speech are:
 The word clouds for each speech visualize the frequency of words after stopwords are removed.
 
 - **Roosevelt Word Cloud**
-  ![Roosevelt Word Cloud](images/roosevelt_wordcloud.png)
+
+  ![image](https://github.com/user-attachments/assets/63de40dc-ec33-4b4f-8bdf-cf8ecac7de05)
 
 - **Kennedy Word Cloud**
-  ![Kennedy Word Cloud](images/kennedy_wordcloud.png)
+
+  ![image](https://github.com/user-attachments/assets/cc536d32-eb7f-45b5-a94d-53f5baaa1514)
 
 - **Nixon Word Cloud**
-  ![Nixon Word Cloud](images/nixon_wordcloud.png)
+
+  ![image](https://github.com/user-attachments/assets/d9c57776-6470-4d05-a679-0778dbe94ff3)
